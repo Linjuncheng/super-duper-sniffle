@@ -1,5 +1,0 @@
-F:\amitabha\C#\Demo2\bin\Release\Demo.exe.config
-F:\amitabha\C#\Demo2\obj\Release\Interop.ACTIVEXLib.dll
-F:\amitabha\C#\Demo2\obj\Release\Interop.Microsoft.Office.Core.dll
-F:\amitabha\C#\Demo2\obj\Release\Interop.SpeechLib.dll
-F:\amitabha\C#\Demo2\obj\Release\Demo2.csproj.ResolveComReference.cache
